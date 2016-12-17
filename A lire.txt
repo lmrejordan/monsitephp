@@ -1,8 +1,8 @@
 Adresse du site web : http://www.lemairejordan.esy.es/connexion.php
 
-Adresse du GITHUB : 
+Adresse du GITHUB : https://github.com/lmrejordan/monsitephp
 
-En cas d'impossibilité de s'inscrire sur le site pour X raison, utiliser : 
+En cas d'impossibilitÃ© de s'inscrire sur le site pour X raison, utiliser : 
 
 Email : test@hotmail.fr
 Mdp : test
