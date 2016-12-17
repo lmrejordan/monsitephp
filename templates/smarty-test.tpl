@@ -1,0 +1,1 @@
+<p>Bonjour. Je m'appelle {$name} ! Vive moi.</p>
